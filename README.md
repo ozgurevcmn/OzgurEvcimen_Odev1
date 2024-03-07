@@ -5,7 +5,7 @@ Bu repo, bir dizi sorunun çözümünü içerir. Her bir sorunun çözümü, ayr
 ## Cevap Açıklaması
 ### Cevap1 ve Cevap2
 
-1. ve 2. soruyu incelediğimde aklımda iki soruyu cevaplayabilecek bir sanal market projesi belirdi. Böyle bir projede, kullanıcının öncelikle sipariş oluşturduğu, sonrasında sistemin kullanıcıya verdiği sipariş numarası ile sipariş içeriğine ve fiyat toplamına erişebildiği bir akış olduğu için cevapları tek bir dosyada birleştirdim ve sırasıyla soru 2'yi sonrasında soru 1'i işledim.
+1 ve 2nci soruları incelediğimde aklımda iki soruyu cevaplayabilecek bir sanal market projesi belirdi. Böyle bir projede, kullanıcının öncelikle sipariş oluşturduğu, sonrasında sistemin kullanıcıya verdiği sipariş numarası ile sipariş içeriğine ve fiyat toplamına erişebildiği bir akış olduğu için cevapları tek bir dosyada birleştirdim ve sırasıyla soru 2'yi sonrasında soru 1'i işledim.
 
 Bu kodun işlevleri şu şekilde:
 
