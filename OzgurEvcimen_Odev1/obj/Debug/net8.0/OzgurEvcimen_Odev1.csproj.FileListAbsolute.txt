@@ -1,0 +1,14 @@
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\obj\Debug\net8.0\OzgurEvcimen_Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\obj\Debug\net8.0\OzgurEvcimen_Odev1.AssemblyInfoInputs.cache
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\obj\Debug\net8.0\OzgurEvcimen_Odev1.AssemblyInfo.cs
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\obj\Debug\net8.0\OzgurEvcimen_Odev1.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\bin\Debug\net8.0\OzgurEvcimen_Odev1.exe
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\bin\Debug\net8.0\OzgurEvcimen_Odev1.deps.json
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\bin\Debug\net8.0\OzgurEvcimen_Odev1.runtimeconfig.json
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\bin\Debug\net8.0\OzgurEvcimen_Odev1.dll
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\bin\Debug\net8.0\OzgurEvcimen_Odev1.pdb
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\obj\Debug\net8.0\OzgurEvcimen_Odev1.dll
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\obj\Debug\net8.0\refint\OzgurEvcimen_Odev1.dll
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\obj\Debug\net8.0\OzgurEvcimen_Odev1.pdb
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\obj\Debug\net8.0\OzgurEvcimen_Odev1.genruntimeconfig.cache
+C:\Users\ozgur\source\repos\OzgurEvcimen_Odev1\OzgurEvcimen_Odev1\obj\Debug\net8.0\ref\OzgurEvcimen_Odev1.dll
