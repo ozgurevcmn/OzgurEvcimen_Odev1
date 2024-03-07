@@ -76,11 +76,11 @@ Bu soru doğrultusunda başlıca string metotlarını inceleyerek bu metotlara d
 
 ### Cevap 7
 
-Bu uygulamada kullanıcıdan alınan öğrenci sayısınca, öğrencilerin adını, üç adet sınav sonucununu (her biri 0 ile 100 arasında), ve bu sınavların ortalamasını alarak bir liste içinde saklar. İşlem tamamlandıktan sonra ise bu listeyi ekrana yazdırır.
+Bu uygulama, kullanıcıdan alınan öğrenci sayısınca, öğrencilerin adını, üç adet sınav sonucununu (her biri 0 ile 100 arasında), ve bu sınavların ortalamasını alarak bir liste içinde saklar. İşlem tamamlandıktan sonra ise bu listeyi ekrana yazdırır.
 
 İşleyiş şu şekildedir:
 
 1. Öncelikle kullanıcıdan öğrenci sayısı alınır ve ardından her bir öğrencinin adını ve sınav sonuçlarını girmesini sağlar.
 2. Her öğrenci için ad, 0 ile 100 arasında olması koşullu üç sınav sonucu ve ortalama sonuç bir Tuple nesnesi olarak `studentsList` adlı bir List'e eklenir.
 3. Eğer kullanıcı geçerli bir sayı girmemişse veya sınav sonuçları geçerli bir sayı aralığında değilse, program kullanıcıya geçerli bir giriş yapması gerektiğini belirten bir hata mesajı gösterir.
-4. Son olarak, `studentsList` içindeki her öğrenci için adını, sınav sonuçlarını ve ortalamasını ekrana yazdırır.
+4. Son olarak, `studentsList` içindeki her öğrenci için adını, sınav sonuçlarını ve bu üç sınavın ortalamasını ekrana yazdırır.
