@@ -58,7 +58,7 @@ Ancak mükemmel sayılar oldukça nadirdir ve genellikle küçük sayılardır. 
 - 8128 (1 + 2 + 4 + 8 + 16 + 32 + 64 + 127 + 254 + 508 + 1016 + 2032 + 4064 = 8128)
 
 
-**Kodun adım adım açıklaması:**
+**Kodun adım adım işleyişi:**
 
 - Bu metot, kullanıcıya bir sayı girmesini isteyerek başlar.
 - Kullanıcıdan alınan sayı, bir dize olarak alınır ve UInt128 türüne dönüştürülür.
