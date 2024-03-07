@@ -72,7 +72,7 @@ Ancak mükemmel sayılar oldukça nadirdir ve genellikle küçük sayılardır. 
 
 ### Cevap 6
 
-Bu soru kapsamında başlıca string metotlarını inceleyerek bu metotlara dair birer örnek uygulama inceledim.
+Bu soru doğrultusunda başlıca string metotlarını inceleyerek bu metotlara dair birer örnek uygulama inceledim.
 
 ### Cevap 7
 
